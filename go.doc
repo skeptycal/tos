@@ -1,0 +1,5 @@
+package tos // import "github.com/skeptycal/tos"
+
+Package tos contains utilities for macOS.
+
+func Example()
